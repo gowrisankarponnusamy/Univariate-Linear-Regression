@@ -45,7 +45,7 @@ plt.show()
 
 
 
-```
+
 ## Output
 ![Screenshot (13)](https://github.com/gowrisankarponnusamy/Univariate-Linear-Regression/assets/119393123/62a7f4d8-7c69-4186-b577-c3d82cfca2b7)
 
